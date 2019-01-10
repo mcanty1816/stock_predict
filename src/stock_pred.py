@@ -4,7 +4,7 @@ Created on Mon Jun 25 13:38:31 2018
 
 @author: User
 """
-
+tt
 import os
 #경로지정
 os.chdir('C:/Users/User/Desktop/stock_picking/stock_pred_model/src')
