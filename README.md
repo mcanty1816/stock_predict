@@ -1,3 +1,3 @@
-# sung
+# Predict stock price movment using machine learning
 
-Hi, This is practice.
+Hi, This is just for practice.
